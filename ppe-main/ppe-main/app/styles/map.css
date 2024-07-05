@@ -1,0 +1,14 @@
+.boxMap {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 15px;
+    margin-bottom: -30px;
+    height: 70vh;
+    width: 100vw;
+}
+
+.popupMarker a {
+    color: rgb(0, 84, 179);
+
+}

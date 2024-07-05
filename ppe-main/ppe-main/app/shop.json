@@ -1,0 +1,44 @@
+[
+    {
+        "nom": "Nysa Cavistes",
+        "latitude": "48.842830",
+        "longitude": "2.303040",
+        "adresse": "108 Rue Lecourbe, 75015 Paris",
+        "site": "https://www.nysa.fr"
+    },
+    {
+        "nom": "Nysa Cavistes",
+        "latitude": "48.826328",
+        "longitude": "2.278210",
+        "adresse": "14 Rue du Général Leclerc, 92130 Issy-les-Moulineaux",
+        "site": "https://www.nysa.fr"
+    },
+    {
+        "nom": "Nysa Cavistes",
+        "latitude": "48.847140",
+        "longitude": "2.318340",
+        "adresse": "4 Rue Mayet, 75006 Paris",
+        "site": "https://www.nysa.fr"
+    },
+    {
+        "nom": "Les Fromages de Marie",
+        "latitude": "48.84790802001953",
+        "longitude": "2.2906911373138428",
+        "adresse": "116 Rue St Charles, 75015 Paris",
+        "site": ""
+    },
+    {
+        "nom": "Fromagerie Felix",
+        "latitude": "48.8415313",
+        "longitude": "2.2892307",
+        "adresse": "31 Av. Félix Faure, 75015 Paris",
+        "site": ""
+    },
+    {
+        "nom": "Boucherie Leboeuf",
+        "latitude": "48.8414124",
+        "longitude": "2.2889355",
+        "adresse": "37 Av. Félix Faure, 75015 Paris",
+        "site": ""
+    }
+]
